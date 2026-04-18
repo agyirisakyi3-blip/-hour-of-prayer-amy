@@ -1,0 +1,12 @@
+{
+  "name": "hour-of-prayer-amy",
+  "version": "1.0.0",
+  "description": "Hour Of Prayer Amy Church Website",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
